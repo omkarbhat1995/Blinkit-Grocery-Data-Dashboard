@@ -7,7 +7,7 @@ This repository contains a data analysis and visualization project focused on Bl
 ## Dataset
 
 The data powering this dashboard is located in the root of this repository.
-File: 8219230-Blinkit_Dataset_For_Excel_Dashboard_(1).xlsx
+File: Blinkit_Dataset_Dashboard.xlsx
 
 This dataset includes various metrics related to orders, delivery times, customer ratings, and product categories, which are cleaned and processed to feed the dashboard visualizations.
 
@@ -29,13 +29,11 @@ This dataset includes various metrics related to orders, delivery times, custome
 ## How to Use
 - Clone or download this repository to your local machine.
 - Ensure you have Microsoft Excel (2016 or newer recommended) installed.
-- Open the 8219230-Blinkit_Dataset_For_Excel_Dashboard_(1).xlsx file.
+- Open the Blinkit_Dataset_Dashboard.xlsx file.
 - Navigate to the "Dashboard" tab (or equivalent main sheet) to interact with the visualizations. Note: If prompted, click "Enable Editing" and "Enable Content" to allow the Pivot Tables and Slicers to function correctly.
 
 ## Future Enhancements
 
 - Add predictive forecasting based on historical sales data.
-
 - Expand the dataset to include regional demographic analysis.
-
 - Migrate the cleaned data to Power BI or Tableau for advanced web-based reporting.
